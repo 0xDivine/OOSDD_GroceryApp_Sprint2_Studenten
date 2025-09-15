@@ -1,7 +1,7 @@
 # GroceryApp sprint2 
 
 
-#**Bugs**
+# **Bugs**
 App werkt alleen in de **feature/uc6/inloggen**. Even nakijken wat er gebeurd is met de main. Wel gemerged naar de main. 
 
 ## Studentversie:  
