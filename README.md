@@ -1,7 +1,8 @@
 # GroceryApp sprint2 
 
-## Docentversie  
-In deze versie zijn de wijzigingen doorgevoerd en is de code compleet.  
+
+#**Bugs**
+App werkt alleen in de **feature/uc6/inloggen**. Even nakijken wat er gebeurd is met de main. Wel gemerged naar de main. 
 
 ## Studentversie:  
 ### UC04 Kiezen kleur boodschappenlijst  
